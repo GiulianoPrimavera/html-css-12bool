@@ -22,3 +22,16 @@
 .col_xs_10{flex-basis: calc((100% / 12) * 10); max-width: calc((100% / 12) * 10);}
 .col_xs_11{flex-basis: calc((100% / 12) * 11); max-width: calc((100% / 12) * 11);}
 .col_xs_12{flex-basis: calc((100% / 12) * 12); max-width: calc((100% / 12) * 12);}
+
+
+.col_xs_offset_1{margin-left: calc((100% / 12) * 1);} 
+.col_xs_offset_2{margin-left: calc((100% / 12) * 2);} 
+.col_xs_offset_3{margin-left: calc((100% / 12) * 3);} 
+.col_xs_offset_4{margin-left: calc((100% / 12) * 4);} 
+.col_xs_offset_5{margin-left: calc((100% / 12) * 5);}
+.col_xs_offset_6{margin-left: calc((100% / 12) * 6);} 
+.col_xs_offset_7{margin-left: calc((100% / 12) * 7);} 
+.col_xs_offset_8{margin-left: calc((100% / 12) * 8);} 
+.col_xs_offset_9{margin-left: calc((100% / 12) * 9);} 
+.col_xs_offset_10{margin-left: calc((100% / 12) * 10);} 
+.col_xs_offset_11{margin-left: calc((100% / 12) * 11);} 
