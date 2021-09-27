@@ -10,6 +10,12 @@
     flex-wrap: wrap;
     min-height: 50px;
 }
+.row_2height{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-height: 100px;
+}
 
 .col_xs_1{flex-basis: calc((100% / 12) * 1); max-width: calc((100% / 12) * 1);}
 .col_xs_2{flex-basis: calc((100% / 12) * 2); max-width: calc((100% / 12) * 2);}
